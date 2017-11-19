@@ -1,3 +1,3 @@
 module.exports = {
-  api: 'http://localhost:3000',
+  api: 'https://whispering-retreat-66303.herokuapp.com',
 };
